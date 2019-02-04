@@ -89,7 +89,7 @@
 		<div id="container" style="">
 		</div>
 		<script src="js/jquery.min.js"></script>
-		<script type="text/javascript" src="http://www.w3cschool.cc/try/jeasyui/jquery.easyui.min.js"></script>
+		<script type="text/javascript" src="js/jquery.easyui.min.js"></script>
 
 		<script>
 			(function($) {
